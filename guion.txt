@@ -1,13 +1,17 @@
 =====================================================================
  GUION - ISRAEL / PALESTINE  (English 8 - UPB - Global Issues)
- Exposicion: 20 de noviembre de 2026  |  Tiempo total: 8-10 min
+ Exposición: 20 de noviembre de 2026  |  Tiempo total: 8-10 min
 =====================================================================
 
-COMO USAR LA PRESENTACION
-- Abrir index.html (o el link de GitHub Pages) y pulsar F para pantalla completa.
-- Flecha derecha / espacio / presentador inalambrico = avanzar.
-  En algunas slides cada clic muestra algo nuevo (dice [CLIC] abajo).
-- Flecha izquierda = retroceder.
+CÓMO LEER ESTE GUION
+- EN = lo que se DICE en voz alta (inglés).
+- ES = traducción, solo para entender. NO se lee.
+- (DM), (RS), (AT) NO se leen. Solo marcan la gramática que pide la profe:
+    (DM) = discourse marker  -> conectores: First of all, However, Finally...
+    (RS) = reported speech   -> "The BBC reported that..." (verbo en pasado)
+    (AT) = academic "that"   -> "It is widely believed that..."
+- [CLIC] = pasar a lo siguiente (flecha derecha o presentador).
+- Fuente = de qué link sale el dato (por si preguntan).
 
 REPARTO DE TIEMPO (aprox.)
 - Slides 1-5    Member 1   2:00 min
@@ -17,22 +21,25 @@ REPARTO DE TIEMPO (aprox.)
 - Slides 16-17  Todos      1:00 min
                            ~9-10 min
 
-LEYENDA
-(RS) = reported speech      (DM) = discourse marker      (AT) = academic "that"
-Fuente = de que link sale el dato (para responder preguntas).
-
 
 ---------------------------------------------------------------------
 SLIDE 1 - COVER                                          MEMBER 1
 ---------------------------------------------------------------------
+EN:
 Good morning, everyone. We are [names]. Today our global issue is the
 conflict between Israel and Palestine: one land, two peoples, and a
 peace that has not arrived yet.
+
+ES:
+Buenos días a todos. Somos [nombres]. Hoy nuestro tema global es el
+conflicto entre Israel y Palestina: una tierra, dos pueblos y una paz
+que todavía no ha llegado.
 
 
 ---------------------------------------------------------------------
 SLIDE 2 - INTRODUCTION (3 clics)                         MEMBER 1
 ---------------------------------------------------------------------
+EN:
 Our global issue is war. It is widely believed that (AT) war is one of
 the most serious problems in the world today.
 [CLIC] From all the wars in the world, we chose the conflict between
@@ -41,37 +48,65 @@ the most serious problems in the world today.
        longest-running and most violent disputes in the world, and
        explained that (RS) its origins went back more than a century.
 [CLIC] To understand it, we looked for information in different
-       reliable sources: BBC News, BBC Mundo, DW, a DW documentary and the
-       magazine El Orden Mundial. We compared them
-       because each source shows a different part of the story.
+       reliable sources: BBC News, BBC Mundo, DW, a DW documentary and
+       the magazine El Orden Mundial. We compared them because each
+       source shows a different part of the story.
 
-Fuente: BBC News (2025): "one of the longest-running and most violent
-disputes in the world. Its origins go back more than a century."
+ES:
+Nuestro tema global es la guerra. Se cree ampliamente que la guerra es
+uno de los problemas más graves del mundo hoy.
+[CLIC] De todas las guerras del mundo, escogimos el conflicto entre
+       Israel y Palestina.
+[CLIC] ¿Por qué? Porque la BBC lo describió como una de las disputas
+       más largas y violentas del mundo, y explicó que sus orígenes
+       se remontaban a hace más de un siglo.
+[CLIC] Para entenderlo, buscamos información en diferentes fuentes
+       confiables: BBC News, BBC Mundo, DW, un documental de DW y la
+       revista El Orden Mundial. Las comparamos porque cada fuente
+       muestra una parte diferente de la historia.
+
+Fuente: BBC News (2025).
 
 
 ---------------------------------------------------------------------
 SLIDE 3 - ROADMAP                                        MEMBER 1
 ---------------------------------------------------------------------
+EN:
 First of all (DM), we will explain why this topic matters to us.
 Then (DM), we will look at the history, the main voices and the
 current situation. Finally (DM), we will play a game with you.
+
+ES:
+Primero, explicaremos por qué este tema nos importa.
+Luego, veremos la historia, las voces principales y la situación
+actual. Finalmente, haremos un juego con ustedes.
 
 
 ---------------------------------------------------------------------
 SLIDE 4 - SMALLER THAN ANTIOQUIA                         MEMBER 1
 ---------------------------------------------------------------------
+EN:
 To begin with (DM), let's imagine the size. El Orden Mundial reported
 that (RS) historic Palestine covered only twenty-seven thousand five
 hundred square kilometres, and that about fourteen million people
 lived there. That is less than half of Antioquia.
 In other words (DM), two peoples claim the same small piece of land.
 
-Fuente: de Arguelles (2025), El Orden Mundial.
+ES:
+Para empezar, imaginemos el tamaño. El Orden Mundial informó que la
+Palestina histórica medía solo 27.500 kilómetros cuadrados, y que
+allí vivían unos 14 millones de personas. Eso es menos de la mitad de
+Antioquia.
+En otras palabras, dos pueblos reclaman el mismo pedazo pequeño de
+tierra.
+
+Fuente: de Argüelles (2025), El Orden Mundial.
 
 
 ---------------------------------------------------------------------
-SLIDE 5 - WHY IT MATTERS TO US                           MEMBER 1
+SLIDE 5 - WHY IT MATTERS TO US (3 clics)                 MEMBER 1
 ---------------------------------------------------------------------
+EN:
 Why should Colombians care?
 [CLIC] Land. Like in Colombia, this conflict is about land and about
        people who are forced to leave their homes.
@@ -81,13 +116,24 @@ Why should Colombians care?
 [CLIC] Fake news. Social media is full of opinions about Gaza. For this
        reason (DM), we decided to use only reliable sources.
 
+ES:
+¿Por qué debería importarnos a los colombianos?
+[CLIC] La tierra. Como en Colombia, este conflicto es sobre la tierra
+       y sobre personas obligadas a dejar sus casas.
+[CLIC] Los acuerdos de paz. Israel y Palestina firmaron los Acuerdos
+       de Oslo en 1993; Colombia firmó un acuerdo de paz en 2016. Sin
+       embargo, ambos casos muestran que una firma no es suficiente.
+[CLIC] Las noticias falsas. Las redes sociales están llenas de
+       opiniones sobre Gaza. Por esta razón, decidimos usar solo
+       fuentes confiables.
+
 
 ---------------------------------------------------------------------
-SLIDE 6 - TIMELINE (8 clics, uno por ano)                MEMBER 2
+SLIDE 6 - TIMELINE (8 años, un clic por año)             MEMBER 2
 ---------------------------------------------------------------------
+EN:
 The BBC explained that (RS) the origins of this conflict went back
 more than a century.
-
 1917  Britain, which controlled Palestine, promised a "national home"
       for the Jewish people. An Arab majority already lived there.
 [CLIC]
@@ -114,17 +160,46 @@ more than a century.
 2025  On October 10 a ceasefire began. Hamas returned the last living
       hostages and Israel freed almost two thousand prisoners.
 
-Fuente: BBC News (2025), "History of the conflict explained".
+ES:
+La BBC explicó que los orígenes de este conflicto se remontaban a hace
+más de un siglo.
+1917  Gran Bretaña, que controlaba Palestina, prometió un "hogar
+      nacional" para el pueblo judío. Allí ya vivía una mayoría árabe.
+1947  Después del Holocausto, la ONU votó dividir la tierra en dos
+      Estados. Las naciones árabes rechazaron el plan.
+1948  Israel declaró su independencia. La BBC informó que unos 750.000
+      palestinos habían huido o habían sido expulsados de sus casas.
+      Los palestinos llaman a esto la Nakba, la catástrofe.
+1967  En la Guerra de los Seis Días, Israel tomó el control de
+      Cisjordania, Jerusalén Este y Gaza.
+1993  Líderes israelíes y palestinos firmaron los Acuerdos de Oslo,
+      con la esperanza de dos Estados.
+2005  Israel salió de Gaza. Dos años después, Hamás tomó el control.
+2023  El 7 de octubre, un ataque liderado por Hamás mató a unas 1.200
+      personas en Israel y tomó 251 rehenes. Israel respondió con una
+      ofensiva masiva en Gaza.
+2025  El 10 de octubre empezó un alto el fuego. Hamás devolvió a los
+      últimos rehenes vivos e Israel liberó a casi 2.000 presos.
+
+Fuente: BBC News (2025).
 
 
 ---------------------------------------------------------------------
 SLIDE 7 - OCCUPIED TERRITORIES                           MEMBER 2
 ---------------------------------------------------------------------
+EN:
 Today, about three million Palestinians live in the West Bank.
 The BBC stated that (RS) there were about one hundred and sixty Israeli
 settlements there, with seven hundred thousand settlers.
 It is important to note that (AT) these settlements are considered
 illegal under international law, although Israel disputes this.
+
+ES:
+Hoy, unos tres millones de palestinos viven en Cisjordania.
+La BBC afirmó que allí había unos 160 asentamientos israelíes, con
+700.000 colonos.
+Es importante señalar que estos asentamientos se consideran ilegales
+según el derecho internacional, aunque Israel lo discute.
 
 Fuente: BBC News (2025).
 
@@ -132,6 +207,7 @@ Fuente: BBC News (2025).
 ---------------------------------------------------------------------
 SLIDE 8 - JERUSALEM (4 clics)                            MEMBER 2
 ---------------------------------------------------------------------
+EN:
 To understand the conflict, we watched a documentary by DW about
 Jerusalem. It explained that (RS) the city was the heart of the
 conflict.
@@ -148,13 +224,30 @@ conflict.
        division he would need the signature of a billion Muslims.
        After that, the Second Intifada began.
 
-Fuente: DW Documental, "Jerusalen - La eterna disputa por la Ciudad
-Santa" (YouTube). Transcripcion en "que dice el video de youtube .txt".
+ES:
+Para entender el conflicto, vimos un documental de DW sobre Jerusalén.
+Explicaba que la ciudad era el corazón del conflicto.
+[CLIC] Primero, Jerusalén es sagrada para tres religiones: judaísmo,
+       cristianismo e islam. El documental dijo que casi dos tercios
+       de la humanidad tenían raíces espirituales allí.
+[CLIC] Segundo, en 1967 Israel anexó Jerusalén Este. Sin embargo, la
+       comunidad internacional no lo reconoce.
+[CLIC] Tercero, el 39% de la gente de Jerusalén es palestina. Una mujer
+       palestina dijo que no tenía ciudadanía israelí, solo un permiso
+       de residencia.
+[CLIC] Finalmente, en el año 2000 las conversaciones de paz de Camp
+       David fracasaron por Jerusalén. Arafat dijo que para aceptar esa
+       división necesitaría la firma de mil millones de musulmanes.
+       Después de eso, empezó la Segunda Intifada.
+
+Fuente: DW Documental (YouTube). Transcripción en
+"que dice el video de youtube .txt".
 
 
 ---------------------------------------------------------------------
 SLIDE 9 - VOICES                                         MEMBER 2
 ---------------------------------------------------------------------
+EN:
 Three voices helped us understand the conflict.
 Rashid Khalidi, a Palestinian-American historian, explained that (RS)
 it was a "hundred years' war" over the land.
@@ -163,13 +256,23 @@ occupation harms both Palestinians and Israelis.
 Finally (DM), Johan Galtung explained that (RS) peace was more than the
 absence of war. We will come back to him at the end.
 
+ES:
+Tres voces nos ayudaron a entender el conflicto.
+Rashid Khalidi, un historiador palestino-estadounidense, explicó que
+era una "guerra de cien años" por la tierra.
+Gideon Levy, un periodista israelí, ha escrito que la ocupación hace
+daño tanto a palestinos como a israelíes.
+Finalmente, Johan Galtung explicó que la paz era más que la ausencia
+de guerra. Volveremos a él al final.
+
 Fuente: El Orden Mundial menciona a Khalidi y Levy; Galtung es la base
-teorica (estudios de paz).
+teórica (estudios de paz).
 
 
 ---------------------------------------------------------------------
-SLIDE 10 - TWO SOLUTIONS                                  MEMBER 2
+SLIDE 10 - TWO SOLUTIONS (2 clics)                       MEMBER 2
 ---------------------------------------------------------------------
+EN:
 There are two main frameworks.
 [CLIC] Framework A: two states, one next to the other. It comes from
        Oslo. The BBC reported that (RS) more than one hundred and fifty
@@ -179,23 +282,42 @@ There are two main frameworks.
        El Orden Mundial argued that (RS) the two-state solution was
        less and less viable. On the other hand (DM), Israel's 2018 law
        defines the country as a Jewish state.
-Note: El Orden Mundial is an opinion article, so it shows one point of view.
+This is an opinion article, so it shows one point of view.
 
-Fuentes: BBC News (2025); de Arguelles (2025).
+ES:
+Hay dos marcos principales.
+[CLIC] Marco A: dos Estados, uno al lado del otro. Viene de Oslo. La
+       BBC informó que más de 150 países reconocían a Palestina. Sin
+       embargo, una encuesta encontró que el 63% de los israelíes
+       rechazaba esta idea.
+[CLIC] Marco B: un solo Estado compartido con los mismos derechos para
+       todos. El Orden Mundial argumentó que la solución de dos Estados
+       era cada vez menos viable. Por otro lado, la ley israelí de 2018
+       define al país como un Estado judío.
+Este es un artículo de opinión, así que muestra un punto de vista.
+
+Fuentes: BBC News (2025); de Argüelles (2025).
 
 
 ---------------------------------------------------------------------
-SLIDE 11 - QUICK POLL                                     MEMBER 2
+SLIDE 11 - QUICK POLL                                    MEMBER 2
 ---------------------------------------------------------------------
+EN:
 Now it's your turn. Raise your hand: what do you think could work?
 Two states? One state? Not sure?
-(Contar manos y hacer clic en cada opcion para sumar votos.)
+(Contar manos y hacer clic en cada opción para sumar votos.)
 Interesting! As you can see, there is no easy answer.
+
+ES:
+Ahora es su turno. Levanten la mano: ¿qué creen que podría funcionar?
+¿Dos Estados? ¿Un Estado? ¿No están seguros?
+¡Interesante! Como ven, no hay una respuesta fácil.
 
 
 ---------------------------------------------------------------------
 SLIDE 12 - THE HUMAN COST                                MEMBER 3
 ---------------------------------------------------------------------
+EN:
 Now, the current situation. DW reported that (RS) at least seventy-four
 thousand six hundred people had died in Gaza since 2023, and that
 almost one hundred and seventy-six thousand had been injured, according
@@ -203,8 +325,17 @@ to Gaza's health authorities. The UN considers these figures reliable.
 Moreover (DM), more than one thousand six hundred people had died after
 the ceasefire started.
 In addition (DM), the BBC reported that (RS) more than three hundred
-children had died in Gaza after the ceasefire began, according to
-Gaza's Health Ministry.
+children had died in Gaza after the ceasefire began.
+
+ES:
+Ahora, la situación actual. DW informó que al menos 74.600 personas
+habían muerto en Gaza desde 2023, y que casi 176.000 habían resultado
+heridas, según las autoridades de salud de Gaza. La ONU considera
+fiables estas cifras.
+Además, más de 1.600 personas habían muerto después de que empezó el
+alto el fuego.
+También, la BBC informó que más de 300 niños habían muerto en Gaza
+después de que empezó el alto el fuego.
 
 Fuentes: DW (2026); Limaye (2026), BBC Mundo.
 
@@ -212,6 +343,7 @@ Fuentes: DW (2026); Limaye (2026), BBC Mundo.
 ---------------------------------------------------------------------
 SLIDE 13 - "EVERY DAY THERE ARE DEATHS"                  MEMBER 3
 ---------------------------------------------------------------------
+EN:
 Behind the numbers there are people. The BBC told the story of Fida
 al-Toutah, a thirty-one-year-old mother of five. The reporter wrote
 that (RS) Fida had been shot in her tent while she was combing her
@@ -223,26 +355,53 @@ the two point one million people in Gaza have been displaced again and
 again, and reconstruction has not started.
 And this continues: just yesterday, DW reported that (RS) five more
 Palestinians, including a twelve-year-old boy, had died in Gaza.
-(Senalar la cinta naranja de abajo.)
+(Señalar la cinta naranja de noticias.)
+
+ES:
+Detrás de los números hay personas. La BBC contó la historia de Fida
+al-Toutah, una madre de cinco hijos de 31 años. La periodista escribió
+que a Fida le habían disparado en su carpa mientras peinaba a su hija.
+Su esposo dijo que el alto el fuego era una mentira, y que todos los
+días había disparos y muertos.
+El ejército israelí dijo que no tenía registro del incidente.
+Su familia había sido desplazada siete veces. Según la ONU, la mayoría
+de los 2,1 millones de personas de Gaza han sido desplazadas una y otra
+vez, y la reconstrucción no ha empezado.
+Y esto continúa: justo ayer, DW informó que otros cinco palestinos,
+entre ellos un niño de 12 años, habían muerto en Gaza.
 
 Fuentes: Limaye (2026), BBC Mundo; DW (2026).
+OJO: "just yesterday" sirve si DW publicó el día antes de exponer.
+Si no, decir "on November 5".
 
 
 ---------------------------------------------------------------------
 SLIDE 14 - PEACE QUIZ                                    MEMBER 3
 ---------------------------------------------------------------------
+EN:
 Let's play! The class is divided into Team A and Team B.
-(Leer la pregunta, la clase responde, clic en la opcion elegida: se
-pone verde la correcta. Sumar punto con el boton del equipo.
+
+ES:
+¡Juguemos! La clase se divide en Equipo A y Equipo B.
+
+(Leer la pregunta, la clase responde, clic en la opción elegida: se
+pone verde la correcta. Sumar punto con el botón del equipo.
 "Next question" para la siguiente. Con el tiempo justo, hacer 4-5.)
 
 
 ---------------------------------------------------------------------
 SLIDE 15 - REPORTED SPEECH CHALLENGE                     MEMBER 3
 ---------------------------------------------------------------------
+EN:
 Round two: reported speech. We read the sentence, and you say it in
 reported speech. For example: "The time for peace has come."
--> Macron said that the time for peace had come.
+Macron said that the time for peace had come.
+
+ES:
+Segunda ronda: estilo indirecto. Nosotros leemos la frase y ustedes la
+dicen en estilo indirecto. Por ejemplo: "Ha llegado el momento de la
+paz." -> Macron dijo que había llegado el momento de la paz.
+
 (Clic en cada tarjeta para mostrar la respuesta.)
 
 
@@ -252,31 +411,56 @@ SLIDE 16 - REFLECTIONS (cada uno ~30 seg)                TODOS
 (Cada uno reescribe la suya con algo personal.)
 
 [CLIC] MEMBER 1 - Children
+EN:
 When I started this project, I thought this conflict was only about
 religion. However, when I read that more than three hundred children
 had died in Gaza even after the ceasefire, I realized that the
 youngest people pay the highest price.
+ES:
+Cuando empecé este proyecto, pensaba que este conflicto era solo sobre
+religión. Sin embargo, cuando leí que más de 300 niños habían muerto en
+Gaza incluso después del alto el fuego, me di cuenta de que los más
+jóvenes pagan el precio más alto.
 
 [CLIC] MEMBER 2 - Coexistence
+EN:
 For me, the key idea was the debate between one or two states. I am
 not sure which one is right, but it made me think about Colombia:
 peace is not only a signature, it is learning to live with people who
 are different from us.
+ES:
+Para mí, la idea clave fue el debate entre uno o dos Estados. No estoy
+seguro de cuál es el correcto, pero me hizo pensar en Colombia: la paz
+no es solo una firma, es aprender a vivir con personas diferentes a
+nosotros.
 
 [CLIC] MEMBER 3 - Truth
+EN:
 What surprised me most was the amount of misinformation. Many people
 told me that one side was completely right. After this project, I
 believe that the first step to peace is to listen to both stories and
 to defend the life of every civilian.
+ES:
+Lo que más me sorprendió fue la cantidad de desinformación. Mucha gente
+me dijo que un lado tenía toda la razón. Después de este proyecto, creo
+que el primer paso hacia la paz es escuchar las dos historias y
+defender la vida de cada civil.
 
 
 ---------------------------------------------------------------------
 SLIDE 17 - CLOSING                                       MEMBER 1
 ---------------------------------------------------------------------
+EN:
 To sum up (DM), we learned that this conflict is about land, identity
 and security, and that a ceasefire is not the same as peace. As Galtung
 explained, peace is more than the absence of war.
 Thank you very much. Do you have any questions?
+
+ES:
+En resumen, aprendimos que este conflicto es sobre tierra, identidad y
+seguridad, y que un alto el fuego no es lo mismo que la paz. Como
+explicó Galtung, la paz es más que la ausencia de guerra.
+Muchas gracias. ¿Tienen alguna pregunta?
 
 
 ---------------------------------------------------------------------
@@ -286,8 +470,14 @@ SLIDE 18 - REFERENCES
 
 
 =====================================================================
- SI PREGUNTAN "QUIEN TIENE LA RAZON?"
+ SI PREGUNTAN "WHO IS RIGHT?" (¿QUIÉN TIENE LA RAZÓN?)
 =====================================================================
-"Our project presents information from the BBC, DW and El Orden Mundial. We focus
-on the impact on civilians on both sides, and we leave the final
-opinion to each person."
+EN:
+Our project presents information from the BBC, DW and El Orden Mundial.
+We focus on the impact on civilians on both sides, and we leave the
+final opinion to each person.
+
+ES:
+Nuestro proyecto presenta información de la BBC, DW y El Orden Mundial.
+Nos enfocamos en el impacto sobre los civiles de ambos lados, y dejamos
+la opinión final a cada persona.
