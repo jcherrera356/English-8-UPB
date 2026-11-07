@@ -13,49 +13,24 @@ const TIMELINE = [
 
 const QUIZ = [
   {
-    q: "In which year were the Oslo Accords signed?",
-    options: ["1948", "1967", "1993", "2005"],
-    answer: 2,
-  },
-  {
-    q: "What does the word \"Nakba\" mean?",
-    options: ["Peace", "Catastrophe", "Victory", "Border"],
+    q: "Which two peoples claim the same land?",
+    options: ["Colombians and Venezuelans", "Israelis and Palestinians", "Japanese and Chinese", "Brazilians and Argentinians"],
     answer: 1,
   },
   {
-    q: "How many UN member states recognise the State of Palestine?",
-    options: ["About 20", "About 75", "More than 150", "All 193"],
+    q: "Which city is holy for Jews, Christians and Muslims?",
+    options: ["Bogotá", "Paris", "Jerusalem", "New York"],
     answer: 2,
   },
   {
-    q: "How many times was Fida al-Toutah's family forced to move?",
-    options: ["Once", "Three times", "Seven times", "Never"],
-    answer: 2,
-  },
-  {
-    q: "What percentage of Jerusalem's residents are Palestinian?",
-    options: ["9%", "39%", "69%", "99%"],
+    q: "What is a ceasefire?",
+    options: ["A party", "A stop in the fighting", "A football match", "A type of food"],
     answer: 1,
   },
   {
-    q: "About how many Israeli settlers live in the West Bank and East Jerusalem?",
-    options: ["7,000", "70,000", "700,000", "7 million"],
+    q: "When did the latest war in Gaza begin?",
+    options: ["1823", "1923", "2023", "2123"],
     answer: 2,
-  },
-  {
-    q: "About how many people live in the Gaza Strip?",
-    options: ["210,000", "2.1 million", "21 million", "210 million"],
-    answer: 1,
-  },
-  {
-    q: "When did the latest Gaza ceasefire begin?",
-    options: ["Oct 7, 2023", "Jan 1, 2024", "Oct 10, 2025", "It never began"],
-    answer: 2,
-  },
-  {
-    q: "Who said that peace is more than the absence of war?",
-    options: ["Johan Galtung", "Gideon Levy", "Rashid Khalidi", "Emmanuel Macron"],
-    answer: 0,
   },
 ];
 

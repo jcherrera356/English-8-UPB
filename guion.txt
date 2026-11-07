@@ -386,7 +386,37 @@ ES:
 
 (Leer la pregunta, la clase responde, clic en la opción elegida: se
 pone verde la correcta. Sumar punto con el botón del equipo.
-"Next question" para la siguiente. Con el tiempo justo, hacer 4-5.)
+"Next question" para pasar a la siguiente.)
+
+PREGUNTAS Y RESPUESTAS CORRECTAS:
+
+1. Which two peoples claim the same land?
+   ¿Qué dos pueblos reclaman la misma tierra?
+   A) Colombians and Venezuelans
+   B) Israelis and Palestinians        <- CORRECTA
+   C) Japanese and Chinese
+   D) Brazilians and Argentinians
+
+2. Which city is holy for Jews, Christians and Muslims?
+   ¿Qué ciudad es sagrada para judíos, cristianos y musulmanes?
+   A) Bogotá
+   B) Paris
+   C) Jerusalem                        <- CORRECTA
+   D) New York
+
+3. What is a ceasefire?
+   ¿Qué es un alto el fuego (ceasefire)?
+   A) A party (una fiesta)
+   B) A stop in the fighting           <- CORRECTA (una pausa en los combates)
+   C) A football match (un partido de fútbol)
+   D) A type of food (un tipo de comida)
+
+4. When did the latest war in Gaza begin?
+   ¿Cuándo empezó la guerra más reciente en Gaza?
+   A) 1823
+   B) 1923
+   C) 2023                             <- CORRECTA
+   D) 2123
 
 
 ---------------------------------------------------------------------
