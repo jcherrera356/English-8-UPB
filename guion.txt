@@ -1,0 +1,293 @@
+=====================================================================
+ GUION - ISRAEL / PALESTINE  (English 8 - UPB - Global Issues)
+ Exposicion: 20 de noviembre de 2026  |  Tiempo total: 8-10 min
+=====================================================================
+
+COMO USAR LA PRESENTACION
+- Abrir index.html (o el link de GitHub Pages) y pulsar F para pantalla completa.
+- Flecha derecha / espacio / presentador inalambrico = avanzar.
+  En algunas slides cada clic muestra algo nuevo (dice [CLIC] abajo).
+- Flecha izquierda = retroceder.
+
+REPARTO DE TIEMPO (aprox.)
+- Slides 1-5    Member 1   2:00 min
+- Slides 6-11   Member 2   3:00 min
+- Slides 12-13  Member 3   1:30 min
+- Slides 14-15  Member 3   2:00 min (juego)
+- Slides 16-17  Todos      1:00 min
+                           ~9-10 min
+
+LEYENDA
+(RS) = reported speech      (DM) = discourse marker      (AT) = academic "that"
+Fuente = de que link sale el dato (para responder preguntas).
+
+
+---------------------------------------------------------------------
+SLIDE 1 - COVER                                          MEMBER 1
+---------------------------------------------------------------------
+Good morning, everyone. We are [names]. Today our global issue is the
+conflict between Israel and Palestine: one land, two peoples, and a
+peace that has not arrived yet.
+
+
+---------------------------------------------------------------------
+SLIDE 2 - INTRODUCTION (3 clics)                         MEMBER 1
+---------------------------------------------------------------------
+Our global issue is war. It is widely believed that (AT) war is one of
+the most serious problems in the world today.
+[CLIC] From all the wars in the world, we chose the conflict between
+       Israel and Palestine.
+[CLIC] Why? Because the BBC described it as (RS) one of the
+       longest-running and most violent disputes in the world, and
+       explained that (RS) its origins went back more than a century.
+[CLIC] To understand it, we looked for information in different
+       reliable sources: BBC News, BBC Mundo, DW, a DW documentary and the
+       magazine El Orden Mundial. We compared them
+       because each source shows a different part of the story.
+
+Fuente: BBC News (2025): "one of the longest-running and most violent
+disputes in the world. Its origins go back more than a century."
+
+
+---------------------------------------------------------------------
+SLIDE 3 - ROADMAP                                        MEMBER 1
+---------------------------------------------------------------------
+First of all (DM), we will explain why this topic matters to us.
+Then (DM), we will look at the history, the main voices and the
+current situation. Finally (DM), we will play a game with you.
+
+
+---------------------------------------------------------------------
+SLIDE 4 - SMALLER THAN ANTIOQUIA                         MEMBER 1
+---------------------------------------------------------------------
+To begin with (DM), let's imagine the size. El Orden Mundial reported
+that (RS) historic Palestine covered only twenty-seven thousand five
+hundred square kilometres, and that about fourteen million people
+lived there. That is less than half of Antioquia.
+In other words (DM), two peoples claim the same small piece of land.
+
+Fuente: de Arguelles (2025), El Orden Mundial.
+
+
+---------------------------------------------------------------------
+SLIDE 5 - WHY IT MATTERS TO US                           MEMBER 1
+---------------------------------------------------------------------
+Why should Colombians care?
+[CLIC] Land. Like in Colombia, this conflict is about land and about
+       people who are forced to leave their homes.
+[CLIC] Peace deals. Israel and Palestine signed the Oslo Accords in
+       1993; Colombia signed a peace agreement in 2016. However (DM),
+       both cases show that a signature is not enough.
+[CLIC] Fake news. Social media is full of opinions about Gaza. For this
+       reason (DM), we decided to use only reliable sources.
+
+
+---------------------------------------------------------------------
+SLIDE 6 - TIMELINE (8 clics, uno por ano)                MEMBER 2
+---------------------------------------------------------------------
+The BBC explained that (RS) the origins of this conflict went back
+more than a century.
+
+1917  Britain, which controlled Palestine, promised a "national home"
+      for the Jewish people. An Arab majority already lived there.
+[CLIC]
+1947  After the Holocaust, the UN voted to divide the land into two
+      states. Arab nations rejected the plan.
+[CLIC]
+1948  Israel declared independence. The BBC reported that (RS) about
+      seven hundred and fifty thousand Palestinians had fled or had
+      been forced from their homes. Palestinians call this the Nakba,
+      the catastrophe.
+[CLIC]
+1967  In the Six-Day War, Israel took control of the West Bank, East
+      Jerusalem and Gaza.
+[CLIC]
+1993  Israeli and Palestinian leaders signed the Oslo Accords, with the
+      hope of two states.
+[CLIC]
+2005  Israel left Gaza. Two years later, Hamas took control.
+[CLIC]
+2023  On October 7, a Hamas-led attack killed about twelve hundred
+      people in Israel and took two hundred and fifty-one hostages.
+      Israel answered with a massive offensive in Gaza.
+[CLIC]
+2025  On October 10 a ceasefire began. Hamas returned the last living
+      hostages and Israel freed almost two thousand prisoners.
+
+Fuente: BBC News (2025), "History of the conflict explained".
+
+
+---------------------------------------------------------------------
+SLIDE 7 - OCCUPIED TERRITORIES                           MEMBER 2
+---------------------------------------------------------------------
+Today, about three million Palestinians live in the West Bank.
+The BBC stated that (RS) there were about one hundred and sixty Israeli
+settlements there, with seven hundred thousand settlers.
+It is important to note that (AT) these settlements are considered
+illegal under international law, although Israel disputes this.
+
+Fuente: BBC News (2025).
+
+
+---------------------------------------------------------------------
+SLIDE 8 - JERUSALEM (4 clics)                            MEMBER 2
+---------------------------------------------------------------------
+To understand the conflict, we watched a documentary by DW about
+Jerusalem. It explained that (RS) the city was the heart of the
+conflict.
+[CLIC] Firstly (DM), Jerusalem is holy for three religions: Judaism,
+       Christianity and Islam. The documentary said that (RS) almost
+       two thirds of humanity had spiritual roots there.
+[CLIC] Secondly (DM), in 1967 Israel annexed East Jerusalem. However
+       (DM), the international community does not recognise it.
+[CLIC] Thirdly (DM), thirty-nine percent of the people in Jerusalem
+       are Palestinian. One Palestinian woman said that (RS) she did
+       not have Israeli citizenship, only a residency permit.
+[CLIC] Finally (DM), in 2000 the peace talks at Camp David failed
+       because of Jerusalem. Arafat said that (RS) to accept that
+       division he would need the signature of a billion Muslims.
+       After that, the Second Intifada began.
+
+Fuente: DW Documental, "Jerusalen - La eterna disputa por la Ciudad
+Santa" (YouTube). Transcripcion en "que dice el video de youtube .txt".
+
+
+---------------------------------------------------------------------
+SLIDE 9 - VOICES                                         MEMBER 2
+---------------------------------------------------------------------
+Three voices helped us understand the conflict.
+Rashid Khalidi, a Palestinian-American historian, explained that (RS)
+it was a "hundred years' war" over the land.
+Gideon Levy, an Israeli journalist, has written that (RS) the
+occupation harms both Palestinians and Israelis.
+Finally (DM), Johan Galtung explained that (RS) peace was more than the
+absence of war. We will come back to him at the end.
+
+Fuente: El Orden Mundial menciona a Khalidi y Levy; Galtung es la base
+teorica (estudios de paz).
+
+
+---------------------------------------------------------------------
+SLIDE 10 - TWO SOLUTIONS                                  MEMBER 2
+---------------------------------------------------------------------
+There are two main frameworks.
+[CLIC] Framework A: two states, one next to the other. It comes from
+       Oslo. The BBC reported that (RS) more than one hundred and fifty
+       countries recognised Palestine. However (DM), a poll found
+       that (RS) sixty-three percent of Israelis rejected this idea.
+[CLIC] Framework B: one shared state with equal rights for everyone.
+       El Orden Mundial argued that (RS) the two-state solution was
+       less and less viable. On the other hand (DM), Israel's 2018 law
+       defines the country as a Jewish state.
+Note: El Orden Mundial is an opinion article, so it shows one point of view.
+
+Fuentes: BBC News (2025); de Arguelles (2025).
+
+
+---------------------------------------------------------------------
+SLIDE 11 - QUICK POLL                                     MEMBER 2
+---------------------------------------------------------------------
+Now it's your turn. Raise your hand: what do you think could work?
+Two states? One state? Not sure?
+(Contar manos y hacer clic en cada opcion para sumar votos.)
+Interesting! As you can see, there is no easy answer.
+
+
+---------------------------------------------------------------------
+SLIDE 12 - THE HUMAN COST                                MEMBER 3
+---------------------------------------------------------------------
+Now, the current situation. DW reported that (RS) at least seventy-four
+thousand six hundred people had died in Gaza since 2023, and that
+almost one hundred and seventy-six thousand had been injured, according
+to Gaza's health authorities. The UN considers these figures reliable.
+Moreover (DM), more than one thousand six hundred people had died after
+the ceasefire started.
+In addition (DM), the BBC reported that (RS) more than three hundred
+children had died in Gaza after the ceasefire began, according to
+Gaza's Health Ministry.
+
+Fuentes: DW (2026); Limaye (2026), BBC Mundo.
+
+
+---------------------------------------------------------------------
+SLIDE 13 - "EVERY DAY THERE ARE DEATHS"                  MEMBER 3
+---------------------------------------------------------------------
+Behind the numbers there are people. The BBC told the story of Fida
+al-Toutah, a thirty-one-year-old mother of five. The reporter wrote
+that (RS) Fida had been shot in her tent while she was combing her
+daughter's hair. Her husband said that (RS) the ceasefire was a lie,
+and that every day there were shootings and deaths.
+The Israeli army said that (RS) it had no record of the incident.
+Her family had been displaced seven times. According to the UN, most of
+the two point one million people in Gaza have been displaced again and
+again, and reconstruction has not started.
+And this continues: just yesterday, DW reported that (RS) five more
+Palestinians, including a twelve-year-old boy, had died in Gaza.
+(Senalar la cinta naranja de abajo.)
+
+Fuentes: Limaye (2026), BBC Mundo; DW (2026).
+
+
+---------------------------------------------------------------------
+SLIDE 14 - PEACE QUIZ                                    MEMBER 3
+---------------------------------------------------------------------
+Let's play! The class is divided into Team A and Team B.
+(Leer la pregunta, la clase responde, clic en la opcion elegida: se
+pone verde la correcta. Sumar punto con el boton del equipo.
+"Next question" para la siguiente. Con el tiempo justo, hacer 4-5.)
+
+
+---------------------------------------------------------------------
+SLIDE 15 - REPORTED SPEECH CHALLENGE                     MEMBER 3
+---------------------------------------------------------------------
+Round two: reported speech. We read the sentence, and you say it in
+reported speech. For example: "The time for peace has come."
+-> Macron said that the time for peace had come.
+(Clic en cada tarjeta para mostrar la respuesta.)
+
+
+---------------------------------------------------------------------
+SLIDE 16 - REFLECTIONS (cada uno ~30 seg)                TODOS
+---------------------------------------------------------------------
+(Cada uno reescribe la suya con algo personal.)
+
+[CLIC] MEMBER 1 - Children
+When I started this project, I thought this conflict was only about
+religion. However, when I read that more than three hundred children
+had died in Gaza even after the ceasefire, I realized that the
+youngest people pay the highest price.
+
+[CLIC] MEMBER 2 - Coexistence
+For me, the key idea was the debate between one or two states. I am
+not sure which one is right, but it made me think about Colombia:
+peace is not only a signature, it is learning to live with people who
+are different from us.
+
+[CLIC] MEMBER 3 - Truth
+What surprised me most was the amount of misinformation. Many people
+told me that one side was completely right. After this project, I
+believe that the first step to peace is to listen to both stories and
+to defend the life of every civilian.
+
+
+---------------------------------------------------------------------
+SLIDE 17 - CLOSING                                       MEMBER 1
+---------------------------------------------------------------------
+To sum up (DM), we learned that this conflict is about land, identity
+and security, and that a ceasefire is not the same as peace. As Galtung
+explained, peace is more than the absence of war.
+Thank you very much. Do you have any questions?
+
+
+---------------------------------------------------------------------
+SLIDE 18 - REFERENCES
+---------------------------------------------------------------------
+(Dejarla en pantalla durante las preguntas.)
+
+
+=====================================================================
+ SI PREGUNTAN "QUIEN TIENE LA RAZON?"
+=====================================================================
+"Our project presents information from the BBC, DW and El Orden Mundial. We focus
+on the impact on civilians on both sides, and we leave the final
+opinion to each person."
