@@ -14,30 +14,30 @@ CÓMO LEER ESTE GUION
 - Fuente = de qué link sale el dato (por si preguntan).
 
 REPARTO DE TIEMPO (aprox.)
-- Slides 1-5    Member 1   2:00 min
-- Slides 6-11   Member 2   3:00 min
-- Slides 12-13  Member 3   1:30 min
-- Slides 14-15  Member 3   2:00 min (juego)
+- Slides 1-5    Johan      2:00 min
+- Slides 6-11   Óscar      3:00 min
+- Slides 12-13  Juan Camilo 1:30 min
+- Slides 14-15  Juan Camilo 2:00 min (juego)
 - Slides 16-17  Todos      1:00 min
                            ~9-10 min
 
 
 ---------------------------------------------------------------------
-SLIDE 1 - COVER                                          MEMBER 1
+SLIDE 1 - COVER                                          JOHAN
 ---------------------------------------------------------------------
 EN:
-Good morning, everyone. We are [names]. Today our global issue is the
+Good morning, everyone. We are Johan, Óscar and Juan Camilo. Today our global issue is the
 conflict between Israel and Palestine: one land, two peoples, and a
 peace that has not arrived yet.
 
 ES:
-Buenos días a todos. Somos [nombres]. Hoy nuestro tema global es el
+Buenos días a todos. Somos Johan, Óscar y Juan Camilo. Hoy nuestro tema global es el
 conflicto entre Israel y Palestina: una tierra, dos pueblos y una paz
 que todavía no ha llegado.
 
 
 ---------------------------------------------------------------------
-SLIDE 2 - INTRODUCTION (3 clics)                         MEMBER 1
+SLIDE 2 - INTRODUCTION (3 clics)                         JOHAN
 ---------------------------------------------------------------------
 EN:
 Our global issue is war. It is widely believed that (AT) war is one of
@@ -69,7 +69,7 @@ Fuente: BBC News (2025).
 
 
 ---------------------------------------------------------------------
-SLIDE 3 - ROADMAP                                        MEMBER 1
+SLIDE 3 - ROADMAP                                        JOHAN
 ---------------------------------------------------------------------
 EN:
 First of all (DM), we will explain why this topic matters to us.
@@ -83,7 +83,7 @@ actual. Finalmente, haremos un juego con ustedes.
 
 
 ---------------------------------------------------------------------
-SLIDE 4 - SMALLER THAN ANTIOQUIA                         MEMBER 1
+SLIDE 4 - SMALLER THAN ANTIOQUIA                         JOHAN
 ---------------------------------------------------------------------
 EN:
 To begin with (DM), let's imagine the size. El Orden Mundial reported
@@ -104,7 +104,7 @@ Fuente: de Argüelles (2025), El Orden Mundial.
 
 
 ---------------------------------------------------------------------
-SLIDE 5 - WHY IT MATTERS TO US (3 clics)                 MEMBER 1
+SLIDE 5 - WHY IT MATTERS TO US (3 clics)                 JOHAN
 ---------------------------------------------------------------------
 EN:
 Why should Colombians care?
@@ -129,7 +129,7 @@ ES:
 
 
 ---------------------------------------------------------------------
-SLIDE 6 - TIMELINE (8 años, un clic por año)             MEMBER 2
+SLIDE 6 - TIMELINE (8 años, un clic por año)             ÓSCAR
 ---------------------------------------------------------------------
 EN:
 The BBC explained that (RS) the origins of this conflict went back
@@ -185,7 +185,7 @@ Fuente: BBC News (2025).
 
 
 ---------------------------------------------------------------------
-SLIDE 7 - OCCUPIED TERRITORIES                           MEMBER 2
+SLIDE 7 - OCCUPIED TERRITORIES                           ÓSCAR
 ---------------------------------------------------------------------
 EN:
 Today, about three million Palestinians live in the West Bank.
@@ -205,7 +205,7 @@ Fuente: BBC News (2025).
 
 
 ---------------------------------------------------------------------
-SLIDE 8 - JERUSALEM (4 clics)                            MEMBER 2
+SLIDE 8 - JERUSALEM (4 clics)                            ÓSCAR
 ---------------------------------------------------------------------
 EN:
 To understand the conflict, we watched a documentary by DW about
@@ -245,7 +245,7 @@ Fuente: DW Documental (YouTube). Transcripción en
 
 
 ---------------------------------------------------------------------
-SLIDE 9 - VOICES                                         MEMBER 2
+SLIDE 9 - VOICES                                         ÓSCAR
 ---------------------------------------------------------------------
 EN:
 Three voices helped us understand the conflict.
@@ -270,7 +270,7 @@ teórica (estudios de paz).
 
 
 ---------------------------------------------------------------------
-SLIDE 10 - TWO SOLUTIONS (2 clics)                       MEMBER 2
+SLIDE 10 - TWO SOLUTIONS (2 clics)                       ÓSCAR
 ---------------------------------------------------------------------
 EN:
 There are two main frameworks.
@@ -300,7 +300,7 @@ Fuentes: BBC News (2025); de Argüelles (2025).
 
 
 ---------------------------------------------------------------------
-SLIDE 11 - QUICK POLL                                    MEMBER 2
+SLIDE 11 - QUICK POLL                                    ÓSCAR
 ---------------------------------------------------------------------
 EN:
 Now it's your turn. Raise your hand: what do you think could work?
@@ -315,7 +315,7 @@ Ahora es su turno. Levanten la mano: ¿qué creen que podría funcionar?
 
 
 ---------------------------------------------------------------------
-SLIDE 12 - THE HUMAN COST                                MEMBER 3
+SLIDE 12 - THE HUMAN COST                                JUAN CAMILO
 ---------------------------------------------------------------------
 EN:
 Now, the current situation. DW reported that (RS) at least seventy-four
@@ -341,7 +341,7 @@ Fuentes: DW (2026); Limaye (2026), BBC Mundo.
 
 
 ---------------------------------------------------------------------
-SLIDE 13 - "EVERY DAY THERE ARE DEATHS"                  MEMBER 3
+SLIDE 13 - "EVERY DAY THERE ARE DEATHS"                  JUAN CAMILO
 ---------------------------------------------------------------------
 EN:
 Behind the numbers there are people. The BBC told the story of Fida
@@ -376,7 +376,7 @@ Si no, decir "on November 5".
 
 
 ---------------------------------------------------------------------
-SLIDE 14 - PEACE QUIZ                                    MEMBER 3
+SLIDE 14 - PEACE QUIZ                                    JUAN CAMILO
 ---------------------------------------------------------------------
 EN:
 Let's play! The class is divided into Team A and Team B.
@@ -420,7 +420,7 @@ PREGUNTAS Y RESPUESTAS CORRECTAS:
 
 
 ---------------------------------------------------------------------
-SLIDE 15 - REPORTED SPEECH CHALLENGE                     MEMBER 3
+SLIDE 15 - REPORTED SPEECH CHALLENGE                     JUAN CAMILO
 ---------------------------------------------------------------------
 EN:
 Round two: reported speech. We read the sentence, and you say it in
@@ -440,7 +440,7 @@ SLIDE 16 - REFLECTIONS (cada uno ~30 seg)                TODOS
 ---------------------------------------------------------------------
 (Cada uno reescribe la suya con algo personal.)
 
-[CLIC] MEMBER 1 - Children
+[CLIC] JOHAN - Children
 EN:
 When I started this project, I thought this conflict was only about
 religion. However, when I read that more than three hundred children
@@ -452,7 +452,7 @@ religión. Sin embargo, cuando leí que más de 300 niños habían muerto en
 Gaza incluso después del alto el fuego, me di cuenta de que los más
 jóvenes pagan el precio más alto.
 
-[CLIC] MEMBER 2 - Coexistence
+[CLIC] ÓSCAR - Coexistence
 EN:
 For me, the key idea was the debate between one or two states. I am
 not sure which one is right, but it made me think about Colombia:
@@ -464,7 +464,7 @@ seguro de cuál es el correcto, pero me hizo pensar en Colombia: la paz
 no es solo una firma, es aprender a vivir con personas diferentes a
 nosotros.
 
-[CLIC] MEMBER 3 - Truth
+[CLIC] JUAN CAMILO - Truth
 EN:
 What surprised me most was the amount of misinformation. Many people
 told me that one side was completely right. After this project, I
@@ -478,7 +478,7 @@ defender la vida de cada civil.
 
 
 ---------------------------------------------------------------------
-SLIDE 17 - CLOSING                                       MEMBER 1
+SLIDE 17 - CLOSING                                       JOHAN
 ---------------------------------------------------------------------
 EN:
 To sum up (DM), we learned that this conflict is about land, identity
