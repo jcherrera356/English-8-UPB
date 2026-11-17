@@ -82,19 +82,13 @@ const REFERENCES = [
     url: "https://www.dw.com/es/cinco-palestinos-mueren-en-ataques-de-israel-en-gaza/a-79871408",
   },
   {
-    text: "DW Documental. ([year]). <i>Jerusalén - La eterna disputa por la Ciudad Santa</i> [Video]. YouTube.",
+    text: "DW Documental. (n.d.). <i>Jerusalén - La eterna disputa por la Ciudad Santa</i> [Video]. YouTube.",
     url: "https://www.youtube.com/watch?v=J1Yi1YbX07c",
-    pending: true,
   },
   {
     text: "Limaye, Y. (2026, October 12). \"Cada día muere gente\": las familias en Gaza que siguen bajo los ataques israelíes pese al alto el fuego, mientras el acuerdo de paz se estanca. <i>BBC News Mundo</i>.",
     url: "https://www.bbc.com/mundo/articles/c95ynxjmp253o",
   },
-  { text: "[Reference 6]", pending: true },
-  { text: "[Reference 7]", pending: true },
-  { text: "[Reference 8]", pending: true },
-  { text: "[Reference 9]", pending: true },
-  { text: "[Reference 10]", pending: true },
 ];
 
 const CREDITS =
