@@ -379,14 +379,13 @@ Si no, decir "on November 5".
 SLIDE 14 - PEACE QUIZ                                    JUAN CAMILO
 ---------------------------------------------------------------------
 EN:
-Let's play! The class is divided into Team A and Team B.
+Let's play! We have four questions for you.
 
 ES:
-¡Juguemos! La clase se divide en Equipo A y Equipo B.
+¡Juguemos! Tenemos cuatro preguntas para ustedes.
 
 (Leer la pregunta, la clase responde, clic en la opción elegida: se
-pone verde la correcta. Sumar punto con el botón del equipo.
-"Next question" para pasar a la siguiente.)
+pone verde la correcta. "Next question" para pasar a la siguiente.)
 
 PREGUNTAS Y RESPUESTAS CORRECTAS
 Después de que la clase responda, hacer clic en una opción: se marca la

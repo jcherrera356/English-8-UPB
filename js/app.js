@@ -258,13 +258,6 @@ quiz.querySelector("[data-qprev]").addEventListener("click", () => {
   renderQuestion();
 });
 renderQuestion();
-quiz.querySelectorAll(".team").forEach((t) =>
-  t.addEventListener("click", () => {
-    const b = t.querySelector("b");
-    b.textContent = Number(b.textContent) + 1;
-    gsap.fromTo(b, { scale: 1.8 }, { scale: 1, duration: 0.5, ease: "back.out(3)" });
-  })
-);
 
 // ---------- Reported speech flip cards ----------
 document.querySelector("[data-reported]").innerHTML = REPORTED.map(

@@ -315,9 +315,6 @@ body::after {
 .quiz-wrap { justify-content: center; }
 .quiz-head { display: flex; justify-content: space-between; align-items: center; }
 .quiz-head .kicker { margin: 0; }
-.scores { display: flex; gap: 14px; }
-.team { padding: 12px 22px; border: 1px solid var(--line); border-radius: 99px; font-size: 20px; background: var(--surface); }
-.team b { display: inline-block; font-family: var(--serif); font-size: 30px; margin-left: 10px; color: var(--accent); }
 .q-text { font-family: var(--serif); font-weight: 600; font-size: 64px; line-height: 1.05; margin: 50px 0 44px; max-width: 1250px; }
 .q-options { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
 .q-options button {
