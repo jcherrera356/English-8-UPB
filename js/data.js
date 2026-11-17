@@ -11,26 +11,35 @@ const TIMELINE = [
   { year: "2025", title: "Ceasefire", kw: "October 10 · hostages and prisoners released", img: "img/ceasefire.jpg" },
 ];
 
+// Each answer is backed by one of our sources; "why" appears after answering, in reported speech.
 const QUIZ = [
   {
-    q: "Which two peoples claim the same land?",
-    options: ["Colombians and Venezuelans", "Israelis and Palestinians", "Japanese and Chinese", "Brazilians and Argentinians"],
-    answer: 1,
-  },
-  {
-    q: "Which city is holy for Jews, Christians and Muslims?",
-    options: ["Bogotá", "Paris", "Jerusalem", "New York"],
+    q: "How old is the conflict between Israel and Palestine?",
+    options: ["10 years", "50 years", "More than 100 years", "1,000 years"],
     answer: 2,
+    source: "BBC News",
+    why: "The answer is C, because the BBC explained that the origins of the conflict went back more than a century.",
   },
   {
-    q: "What is a ceasefire?",
-    options: ["A party", "A stop in the fighting", "A football match", "A type of food"],
+    q: "Which city is holy for three religions and is the heart of the conflict?",
+    options: ["Bogotá", "Jerusalem", "Paris", "New York"],
     answer: 1,
+    source: "DW Documentary",
+    why: "The answer is B, because the DW documentary said that Jerusalem was holy for Jews, Christians and Muslims, and that both peoples claimed it as their capital.",
   },
   {
-    q: "When did the latest war in Gaza begin?",
-    options: ["1823", "1923", "2023", "2123"],
+    q: "How big is historic Palestine?",
+    options: ["Bigger than Colombia", "As big as Brazil", "Smaller than Antioquia", "Bigger than Europe"],
     answer: 2,
+    source: "El Orden Mundial",
+    why: "The answer is C, because El Orden Mundial reported that historic Palestine covered only 27,500 square kilometres.",
+  },
+  {
+    q: "Did people stop dying in Gaza after the ceasefire?",
+    options: ["Yes, completely", "No, people continued dying", "There was never a ceasefire", "The war ended in 1948"],
+    answer: 1,
+    source: "DW",
+    why: "The answer is B, because DW reported that more than 1,600 Palestinians had died since the ceasefire began.",
   },
 ];
 

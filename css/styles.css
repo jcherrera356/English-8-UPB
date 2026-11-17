@@ -337,6 +337,15 @@ body::after {
 .q-options button.dim { opacity: 0.35; }
 .q-options button.correct { opacity: 1; border-color: var(--good); background: rgba(143,207,138,0.16); }
 .q-options button.wrong { opacity: 1; border-color: var(--bad); background: rgba(226,112,95,0.16); }
+.q-why {
+  visibility: hidden;
+  margin-top: 22px;
+  padding: 20px 28px;
+  border-left: 3px solid var(--good);
+  background: rgba(143,207,138,0.08);
+  border-radius: 0 12px 12px 0;
+}
+.q-why p { font-family: var(--serif); font-style: italic; font-size: 28px; line-height: 1.3; margin-top: 6px; }
 .q-nav { display: flex; justify-content: flex-end; gap: 12px; margin-top: 34px; }
 .q-nav button { padding: 12px 24px; border: 1px solid var(--line); border-radius: 99px; color: var(--muted); font-size: 18px; }
 

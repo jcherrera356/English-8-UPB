@@ -388,35 +388,58 @@ ES:
 pone verde la correcta. Sumar punto con el botón del equipo.
 "Next question" para pasar a la siguiente.)
 
-PREGUNTAS Y RESPUESTAS CORRECTAS:
+PREGUNTAS Y RESPUESTAS CORRECTAS
+Después de que la clase responda, hacer clic en una opción: se marca la
+correcta y aparece abajo la justificación. Juan Camilo la lee en voz
+alta (es reported speech con la fuente).
 
-1. Which two peoples claim the same land?
-   ¿Qué dos pueblos reclaman la misma tierra?
-   A) Colombians and Venezuelans
-   B) Israelis and Palestinians        <- CORRECTA
-   C) Japanese and Chinese
-   D) Brazilians and Argentinians
+1. How old is the conflict between Israel and Palestine?
+   ¿Qué tan antiguo es el conflicto entre Israel y Palestina?
+   A) 10 years   B) 50 years   C) More than 100 years   D) 1,000 years
+   CORRECTA: C
 
-2. Which city is holy for Jews, Christians and Muslims?
-   ¿Qué ciudad es sagrada para judíos, cristianos y musulmanes?
-   A) Bogotá
-   B) Paris
-   C) Jerusalem                        <- CORRECTA
-   D) New York
+   EN: The answer is C, because the BBC explained that the origins of
+       the conflict went back more than a century.
+   ES: La respuesta es la C, porque la BBC explicó que los orígenes del
+       conflicto se remontaban a hace más de un siglo.
+   Fuente: BBC News (2025)
 
-3. What is a ceasefire?
-   ¿Qué es un alto el fuego (ceasefire)?
-   A) A party (una fiesta)
-   B) A stop in the fighting           <- CORRECTA (una pausa en los combates)
-   C) A football match (un partido de fútbol)
-   D) A type of food (un tipo de comida)
+2. Which city is holy for three religions and is the heart of the conflict?
+   ¿Qué ciudad es sagrada para tres religiones y es el corazón del conflicto?
+   A) Bogotá   B) Jerusalem   C) Paris   D) New York
+   CORRECTA: B
 
-4. When did the latest war in Gaza begin?
-   ¿Cuándo empezó la guerra más reciente en Gaza?
-   A) 1823
-   B) 1923
-   C) 2023                             <- CORRECTA
-   D) 2123
+   EN: The answer is B, because the DW documentary said that Jerusalem
+       was holy for Jews, Christians and Muslims, and that both peoples
+       claimed it as their capital.
+   ES: La respuesta es la B, porque el documental de DW dijo que
+       Jerusalén era sagrada para judíos, cristianos y musulmanes, y que
+       ambos pueblos la reclamaban como su capital.
+   Fuente: DW Documental (video de YouTube)
+
+3. How big is historic Palestine?
+   ¿Qué tan grande es la Palestina histórica?
+   A) Bigger than Colombia   B) As big as Brazil
+   C) Smaller than Antioquia D) Bigger than Europe
+   CORRECTA: C
+
+   EN: The answer is C, because El Orden Mundial reported that historic
+       Palestine covered only 27,500 square kilometres.
+   ES: La respuesta es la C, porque El Orden Mundial informó que la
+       Palestina histórica medía solo 27.500 kilómetros cuadrados.
+   Fuente: de Argüelles (2025), El Orden Mundial
+
+4. Did people stop dying in Gaza after the ceasefire?
+   ¿La gente dejó de morir en Gaza después del alto el fuego?
+   A) Yes, completely             B) No, people continued dying
+   C) There was never a ceasefire D) The war ended in 1948
+   CORRECTA: B
+
+   EN: The answer is B, because DW reported that more than 1,600
+       Palestinians had died since the ceasefire began.
+   ES: La respuesta es la B, porque DW informó que más de 1.600
+       palestinos habían muerto desde que empezó el alto el fuego.
+   Fuente: DW (2026)
 
 
 ---------------------------------------------------------------------

@@ -224,7 +224,10 @@ function renderQuestion() {
   quiz.querySelector(".q-count").textContent = `${qIndex + 1} / ${QUIZ.length}`;
   quiz.querySelector(".q-text").textContent = item.q;
   const opts = quiz.querySelector(".q-options");
+  const why = quiz.querySelector(".q-why");
   opts.innerHTML = "";
+  opts.classList.remove("answered");
+  gsap.set(why, { autoAlpha: 0 });
   item.options.forEach((text, i) => {
     const btn = document.createElement("button");
     btn.innerHTML = `<span class="letter">${"ABCD"[i]}</span><span>${text}</span>`;
@@ -238,10 +241,13 @@ function renderQuestion() {
       } else {
         gsap.fromTo(btn, { scale: 0.95 }, { scale: 1, duration: 0.5, ease: "back.out(3)" });
       }
+      why.innerHTML = `<span class="tag">Source &middot; ${item.source}</span><p>${item.why}</p>`;
+      gsap.fromTo(why, { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.6, ease: "power3.out", delay: 0.2 });
     });
     opts.appendChild(btn);
   });
-  gsap.fromTo(opts.children, { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, stagger: 0.07, duration: 0.5 });
+  gsap.fromTo(opts.children, { autoAlpha: 0, y: 20 },
+    { autoAlpha: 1, y: 0, stagger: 0.07, duration: 0.5, clearProps: "opacity,visibility,transform" });
 }
 quiz.querySelector("[data-qnext]").addEventListener("click", () => {
   qIndex = (qIndex + 1) % QUIZ.length;
