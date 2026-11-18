@@ -245,6 +245,10 @@ body::after {
 /* Versus */
 .versus { position: absolute; inset: 0; display: grid; grid-template-columns: 1fr 1fr; }
 .side { visibility: hidden; padding: 140px 110px; display: flex; flex-direction: column; justify-content: center; }
+.side { position: relative; overflow: hidden; }
+.side > :not(.side-bg) { position: relative; }
+.side-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.22; filter: grayscale(0.4); }
+.side-map { object-fit: contain; object-position: right center; opacity: 0.3; filter: grayscale(1) invert(1); }
 .side-two { background: #16140f; }
 .side-one { background: #1d1913; }
 .huge { font-family: var(--serif); font-weight: 800; font-size: 300px; line-height: 0.8; color: var(--accent); }
