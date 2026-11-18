@@ -374,6 +374,15 @@ body::after {
 /* Reflections */
 .reflect { display: grid; grid-template-columns: repeat(3, 1fr); gap: 50px; }
 .reflect > div { visibility: hidden; border-top: 2px solid var(--accent); padding-top: 30px; }
+.reflect img {
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 26px;
+  filter: grayscale(0.35) contrast(1.05);
+}
 .reflect .who { font-family: var(--mono); font-size: 18px; color: var(--muted); }
 .reflect h2 { font-family: var(--serif); font-weight: 300; font-style: italic; font-size: 92px; margin-top: 30px; line-height: 1; }
 

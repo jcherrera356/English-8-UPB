@@ -104,4 +104,5 @@ const CREDITS =
   "Images: Wikimedia Commons — Adam Jones (CC BY-SA 2.0); British Library (PD); United Nations (PD); UNRWA (PD; CC BY-SA 3.0 IGO); " +
   "David Rubinger / GPO (CC BY-SA 4.0); White House Photo Office (PD); IDF (CC BY-SA 2.0); WAFA / APAimages (CC BY-SA 3.0); " +
   "Justin McIntosh (CC BY 2.0); Thomas Good (CC BY-SA 4.0); Girrit (CC0); Jarvin (CC BY 3.0); " +
-  "Jaber Jehad Badwan (CC BY-SA 4.0); Kfoulk (CC BY-SA 3.0); Godot13 (CC BY-SA 4.0); NordNordWest / DmitTrix (CC BY-SA 3.0).";
+  "Jaber Jehad Badwan (CC BY-SA 4.0); Kfoulk (CC BY-SA 3.0); Godot13 (CC BY-SA 4.0); NordNordWest / DmitTrix (CC BY-SA 3.0); " +
+  "Bluewavelength1998 (CC BY-SA 4.0); P1898 (CC BY 4.0).";
